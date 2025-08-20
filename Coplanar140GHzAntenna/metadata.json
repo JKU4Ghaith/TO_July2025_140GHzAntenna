@@ -1,0 +1,14 @@
+{
+  "ProjectName": "FMD_QNC_coplanar_patch_140GHz",
+  "Shuttle": "MPW 0.13µm Jul 2025(T593)",
+  "Technology": "SG13G2",
+  "Design": {
+    "DesignName": "FMD_QNC_coplanar_patch_140GHz",
+    "FinalGdsName": "FMD_QNC_coplanar_patch_140GHz.gds",
+    "TopCellName": "FMD_QNC_coplanar_patch_140GHz",
+    "Width": "0.8mm",
+    "Height": "0.8mm",
+    "NumberOfSamples": "10"
+  },
+  "FinalWaferThickness": "200um"
+}
