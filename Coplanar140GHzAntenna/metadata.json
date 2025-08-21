@@ -5,7 +5,7 @@
   "Design": {
     "DesignName": "FMD_QNC_coplanar_patch_140GHz",
     "FinalGdsName": "FMD_QNC_coplanar_patch_140GHz.gds",
-    "TopCellName": "FMD_QNC_coplanar_patch_140GHz",
+    "TopCellName": "FMD_QNC_coplanar_140GHz",
     "Width": "0.8mm",
     "Height": "0.8mm",
     "NumberOfSamples": "10"
